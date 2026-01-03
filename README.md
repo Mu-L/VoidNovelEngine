@@ -79,7 +79,7 @@ VoidNovelEngine工具的二进制版本可在[GitHub发布页面](https://github
 
 ## 文档教程
 
-> 🏗️ 仍在建设中
+> [教程文档入口](https://github.com/VoidmatrixHeathcliff/VoidNovelEngine/blob/dev/doc/VNEguide.md)
 
 ## 交流反馈
 
